@@ -38,8 +38,8 @@ CryptoMark is a comprehensive cryptocurrency tracking application built with Rea
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/peeyush_shivam/crypto-dashboard.git
-cd crypto-dashboard
+git clone https://github.com/peeyush_shivam/portcast-crypto.git
+cd portcast-crypto
 ```
 2. Installing dependencies
 ```bash
